@@ -21,7 +21,7 @@ export const setError = (error) => {
 export const fetchTopmenu = () => {
   return async function (dispatch) {
     try {
-      let data = await fetch("${import.meta.env.BASE_URL}db.json");
+      let data = await fetch(`${import.meta.env.BASE_URL}db.json`);
       let res = await data.json();
       dispatch(setError(""));
       dispatch(setLoading(false));
