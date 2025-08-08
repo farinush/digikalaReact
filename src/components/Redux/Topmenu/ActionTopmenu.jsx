@@ -25,7 +25,7 @@ export const fetchTopmenu = () => {
       let res = await data.json();
       dispatch(setError(""));
       dispatch(setLoading(false));
-      dispatch(setTopmenu(res));
+      dispatch(setTopmenu(res.topmenu));
     } catch (error) {
       dispatch(setError(error.message));
       dispatch(setLoading(true));
