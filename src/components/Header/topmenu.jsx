@@ -13,15 +13,9 @@ const Topmenu = () => {
   if (error) return <h1>Error: {error}</h1>;
   return (
     <>
-      <div
-        className="top_menu w-[100%] !h-[30px] lg:!h-[60px]"
-        key={topmenu.topmenu.id}
-      >
+      <div className="top_menu w-[100%] !h-[30px] lg:!h-[60px]" key={topmenu.topmenu.id}>
         <a className="a_top_menu !h-[30px] lg:!h-[60px]" href="#">
-          <img
-            src={topmenu.topmenu.image}
-            alt="menu"
-            className="w-[100%] !h-[30px] lg:!h-[60px]"
+          <img src={topmenu.topmenu.image} alt="menu" className="w-[100%] !h-[30px] lg:!h-[60px]"
           />
         </a>
       </div>
