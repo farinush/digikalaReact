@@ -32,7 +32,7 @@ const Foursection2 = () => {
           </div>
           <div className="a_child_sub_foursection2 inline-block w-[100px] h-[26px] font-[iranyekanmedium] text-[13px] text-center mx-auto relative mt-[30px]">
             <a href="#" className="text-[#5faab5]">مشاهده
-              <img src="./public/svg/foursection/flesh.svg" alt="" className="absolute top-[-3px] left-[3px]"/>
+              <img src="/svg/foursection/flesh.svg" alt="" className="absolute top-[-3px] left-[3px]"/>
             </a>
           </div>
         </div>
