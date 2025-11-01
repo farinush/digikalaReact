@@ -1,0 +1,3 @@
+export const SET_BOTTOMMENU="SET_BOTTOMMENU"
+export const SET_LOADING="SET_LOADING"
+export const SET_ERROR="SET_ERROR"

@@ -1,0 +1,4 @@
+.custom-position {
+    left: calc(50% - 460px / 2) !important;
+    top: calc(50% - 460px / 2) !important;
+  }

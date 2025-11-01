@@ -1,0 +1,3 @@
+export const SET_DIGICHILD="SET_DIGICHILD"
+export const SET_LOADING="SET_LOADING"
+export const SET_ERROR="SET_ERROR"

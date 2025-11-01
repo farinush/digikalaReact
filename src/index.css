@@ -1,3 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
+:root {
+  --w-23: 225px;
+}

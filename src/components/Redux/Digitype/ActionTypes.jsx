@@ -1,0 +1,3 @@
+export const SET_DIGITYPE="SET_DIGITYPE"
+export const SET_LOADING="SET_LOADING"
+export const SET_ERROR="SET_ERROR"

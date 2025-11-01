@@ -1,0 +1,3 @@
+export const SET_TWOPICS2="SET_TWOPICS2"
+export const SET_LOADING="SET_LOADING"
+export const SET_ERROR="SET_ERROR"
