@@ -1,6 +1,2204 @@
 {
   "topmenu": {
-    "id": 1,
-    "image": "images/topmenu/image1.png"
+    "image": "images/topmenu/image1.png",
+    "category": [
+      { "id": 1, "image": "images/topmenu/imageR1.png", "title": "سرویس ها" },
+      { "id": 2, "image": "images/topmenu/imageR2.png", "title": "دیجی کالا" },
+      { "id": 3, "image": "images/topmenu/imageR3.png", "title": "45دقیقه ای" },
+      { "id": 4, "image": "images/topmenu/imageR4.png", "title": "طلای دیجیتال" },
+      { "id": 5, "image": "images/topmenu/imageR5.png", "title": "سوپرمارکت" }
+    ]
+  },
+  "centermenu": {
+    "digikalasvg": "svg/centermenu/digikala.svg",
+    "svgexport": "images/centermenu/svgexport-2.jpeg",
+
+    "jostojo": "images/centermenu/imagejostojo.png",
+    "fire": "svg/centermenu/fire.svg",
+    "centermenuslider1": [
+      { "id": 1, "body": "انگشتر" },
+      { "id": 2, "body": "طلا" },
+      { "id": 3, "body": "کیف مدرسه" },
+      { "id": 4, "body": "مداد رنگی" },
+      { "id": 5, "body": "A16" },
+      { "id": 6, "body": "یخچال" },
+      { "id": 7, "body": "موبایل iphone" },
+      { "id": 8, "body": "گل یا پوچ" }
+    ],
+    "lastshopSeacrh": "آخرین جستجوهای شما",
+    "digikalasvg2": "svg/centermenu/digikala2.svg",
+    "homelocsvg": "svg/centermenu/homeloc.svg",
+    "sendto": "ارسال به استان تهران,شهر تهران",
+    "svgfleshbechap": "svg/centermenu/svgfleshbechap.svg",
+    "basketsvg": "svg/centermenu/basket.svg"
+  },
+  "bottommenu": {
+    "category": "دسته بندی کالا",
+    "fleshbechap": "svg/bottommenu/fleshbechap.svg",
+    "shahr": "svg/bottommenu/shahr.svg",
+    "chooseloc": "لطفا شهر خود را انتخاب کنید",
+    "chooseloc2": "انتخاب شهر",
+    "automaticloc": "مکان یابی خودکار",
+    "findloc": "svg/bottommenu/findloc.svg",
+    "subcategory": [
+      { "id": 9, "svg": "svg/bottommenu/mobile.svg", "body": "موبایل" },
+      {
+        "id": 10,
+        "svg": "svg/bottommenu/ketab.svg",
+        "body": "کتاب و لوازم التحریر"
+      },
+      {
+        "id": 11,
+        "svg": "svg/bottommenu/digitalkala.svg",
+        "body": "کالای دیجیتال"
+      },
+      { "id": 12, "svg": "svg/bottommenu/home.svg", "body": "خانه و آشپزخانه" },
+      {
+        "id": 13,
+        "svg": "svg/bottommenu/barghi.svg",
+        "body": "لوازم خانگی برقی"
+      },
+      { "id": 14, "svg": "svg/bottommenu/mod&poshak.svg", "body": "مدو پوشاک" },
+      {
+        "id": 15,
+        "svg": "svg/bottommenu/saat&tala.svg",
+        "body": "ساعت,طلا و جواهرات"
+      },
+      {
+        "id": 16,
+        "svg": "svg/bottommenu/arayeshi&behdashti.svg",
+        "body": "آرایشی و بهداشتی"
+      },
+      {
+        "id": 17,
+        "svg": "svg/bottommenu/pezeshki.svg",
+        "body": "تجهیزات پزشکی و سلامت"
+      },
+      {
+        "id": 18,
+        "svg": "svg/bottommenu/varzesh&safar.svg",
+        "body": "ورزش و سفر"
+      },
+      { "id": 19, "svg": "svg/bottommenu/karthedie.svg", "body": "کارت هدیه" },
+      {
+        "id": 20,
+        "svg": "svg/bottommenu/soopermarketi.svg",
+        "body": "کالای سوپرمارکتی"
+      },
+      {
+        "id": 21,
+        "svg": "svg/bottommenu/asbabbazi.svg",
+        "body": "اسباب بازی,کودک و نوزاد"
+      },
+      {
+        "id": 22,
+        "svg": "svg/bottommenu/abzaralat.svg",
+        "body": "ابزارآلات و تجهیزات"
+      },
+      {
+        "id": 23,
+        "svg": "svg/bottommenu/khodro.svg",
+        "body": "خودرو و موتورسیکلت"
+      },
+      {
+        "id": 24,
+        "svg": "svg/bottommenu/bomi.svg",
+        "body": "محصولات بومی و محلی"
+      }
+    ],
+    "submenu": [
+      {
+        "id": 25,
+        "subtitle": "همه محصولات موبایل",
+        "category": [
+          {
+            "id": 1,
+            "classify": [
+              {
+                "id": 48,
+                "titlehuge": "داغ ترین ها",
+                "items": [
+                  { "id": 1, "body": "گلکسی s23 ultra" },
+                  { "id": 2, "body": "گلکسی A54" },
+                  { "id": 3, "body": "گلکسی A34" },
+                  { "id": 4, "body": "گلکسی A24" },
+                  { "id": 5, "body": "گلکسی A14" },
+                  { "id": 6, "body": "گلکسی S23 FE" },
+                  { "id": 7, "body": "ردمی نوت 12" },
+                  { "id": 8, "body": "پوکو C40" },
+                  { "id": 9, "body": "پوکو  XS pro 5G" },
+                  { "id": 10, "body": "ردمی A2plus" },
+                  { "id": 11, "body": "پوکو A55" },
+                  { "id": 12, "body": "آنرX9A" },
+                  { "id": 13, "body": "موتورلا MOTO E13" },
+                  { "id": 14, "body": "جی پلاس Q2OS" },
+                  { "id": 15, "body": "داریاباندG" },
+                  { "id": 16, "body": "جدیدترین محصولات اپل" }
+                ]
+              },
+              { "id": 49, "titlehuge": "برند های برتر", "items": ["اپل"] },
+              {
+                "id": 50,
+                "titlehuge": "لوازم جانبی موبایل",
+                "items": [
+                  { "id": 17, "body": "شارژر گوشی" },
+                  { "id": 18, "body": "قاب و کاور گوشی" },
+                  { "id": 19, "body": "گلس گوشی" },
+                  { "id": 20, "body": "هولدر گوشی موبایل" },
+                  { "id": 21, "body": "کابل شارژ و مبدل" },
+                  { "id": 22, "body": "پاور بانک(شارژر همراه)" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "classify": [
+              {
+                "id": 51,
+                "titlehuge": "تبلت",
+                "items": [
+                  { "id": 23, "body": "تبلت سامسونگ" },
+                  { "id": 24, "body": "تبلت اپل(آیپد)" },
+                  { "id": 25, "body": "تبلت شیائومی" },
+                  { "id": 26, "body": "تبلت لنوو" },
+                  { "id": 27, "body": "تبلت مایکروسافت" },
+                  { "id": 28, "body": "تبلت دانش آموزی" }
+                ]
+              },
+              {
+                "id": 52,
+                "titlehuge": "هدفون",
+                "items": [
+                  { "id": 29, "body": "هدفون بی سیم" },
+                  { "id": 30, "body": "هدفون اپل(ایرپاد)" },
+                  { "id": 31, "body": "هدفون بیتس" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "classify": [
+              {
+                "id": 53,
+                "titlehuge": "گوشی بر اساس قیمت",
+                "items": [
+                  { "id": 32, "body": "گوشی موبایل ارزان" },
+                  { "id": 33, "body": "گوشی موبایل قسطی" },
+                  { "id": 34, "body": "گوشی تا 2 میلیون تومان" },
+                  { "id": 35, "body": "گوشی تا 5 میلیون تومان" },
+                  { "id": 36, "body": "گوشی تا 7 میلیون تومان" },
+                  { "id": 37, "body": "گوشی تا 15 میلیون تومان" },
+                  { "id": 38, "body": "گوشی بالای 15 میلیون تومان" }
+                ]
+              },
+              {
+                "id": 54,
+                "titlehuge": "گوشی براساس عملکرد",
+                "items": [
+                  { "id": 39, "body": "گوشی گیمینگ" },
+                  { "id": 40, "body": "گوشی 5G" },
+                  { "id": 41, "body": "گوشی دکمه ای" },
+                  { "id": 42, "body": "گوشی ضدآب" },
+                  { "id": 43, "body": "گوشی مناسب عکاسی" },
+                  { "id": 44, "body": "گوشی میان رده" },
+                  { "id": 45, "body": "گوشی اقتصادی" },
+                  { "id": 46, "body": "گوشی دانش آموزی" },
+                  { "id": 47, "body": "گوشی پرچمدار" },
+                  { "id": 48, "body": "گوشی دوسیکارت" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "classify": [
+              {
+                "id": 55,
+                "titlehuge": "برندهای مختلف گوشی موبایل",
+                "items": [
+                  { "id": 49, "body": "گوشی آیفون" },
+                  { "id": 50, "body": "گوشی سامسونگ" },
+                  { "id": 51, "body": "گوشی شیائومی" },
+                  { "id": 52, "body": "گوشی نوکیا" },
+                  { "id": 53, "body": "گوشی ریلمی" },
+                  { "id": 54, "body": "گوشی آنر" },
+                  { "id": 55, "body": "گوشی موتورلا" },
+                  { "id": 56, "body": "گوشی ناتینگ فون" },
+                  { "id": 57, "body": "گوشی جی پلاس" },
+                  { "id": 58, "body": "گوشی هواوی" },
+                  { "id": 59, "body": "گوشی جی ال ایکس" },
+                  { "id": 60, "body": "گوشی های جنرال لوکس" },
+                  { "id": 61, "body": "گوشی داریا" },
+                  { "id": 62, "body": "گوشی گوگل" },
+                  { "id": 63, "body": "گوشی اوپو" },
+                  { "id": 64, "body": "گوشی ارد" },
+                  { "id": 65, "body": "گوشی وان پلاس" },
+                  { "id": 66, "body": "گوشی موبایل رنسو" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "subtitle": "همه محصولات کتاب,لوازم التحریر و هنر",
+        "category": [
+          {
+            "id": 1,
+            "classify": [
+              {
+                "id": 1,
+                "titlehuge": "صنایع دستی",
+                "items": [
+                  { "id": 1, "body": "کالاهای مسی" },
+                  { "id": 2, "body": "سفال,سرامیک و چینی" },
+                  { "id": 3, "body": "کیف چرمی" },
+                  { "id": 4, "body": "ترمه,قلمکار و دستبافت" },
+                  { "id": 5, "body": "خاتم,منبت,حصیری و چوبی" },
+                  { "id": 6, "body": "تابلو و ساعت" },
+                  { "id": 7, "body": "میناکاری" },
+                  { "id": 8, "body": "فیروزه کوبی" },
+                  { "id": 9, "body": "سوزن دوزی" },
+                  { "id": 10, "body": "محصولات استخوانی" },
+                  { "id": 11, "body": "جعبه و دستسازه های هنری" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "classify": [
+              {
+                "id": 2,
+                "titlehuge": "آلات موسیقی",
+                "items": [
+                  { "id": 12, "body": "لوازم جانبی آلات موسیقی" },
+                  { "id": 13, "body": "گیتار" },
+                  { "id": 14, "body": "کیبورد و ارگ" },
+                  { "id": 15, "body": "پیانودیجیتال" },
+                  { "id": 16, "body": "درام,پرکاشن,دف" },
+                  { "id": 17, "body": "تجهیزات استودیویی" },
+                  { "id": 18, "body": "ویولن" },
+                  { "id": 19, "body": "سازهای ایرانی" }
+                ]
+              },
+              {
+                "id": 3,
+                "titlehuge": "فرش ماشینی,دستبافت",
+                "items": [
+                  { "id": 20, "body": "فرش ماشینی" },
+                  { "id": 21, "body": "فرش دستبافت" },
+                  { "id": 22, "body": "تابلو" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "classify": [
+              {
+                "id": 4,
+                "titlehuge": "لوازم تحریر",
+                "items": [
+                  { "id": 23, "body": "لوازم اداری و اقلام مصرفی" },
+                  { "id": 24, "body": "کیف,کوله پشتی و جامدادی" },
+                  { "id": 25, "body": "چراغ مطالعه" },
+                  { "id": 26, "body": "کاغذ کادو,پاکت و کارت هدیه" },
+                  { "id": 27, "body": "نوشت افزار" },
+                  { "id": 28, "body": "دفتر و کاغذ" },
+                  { "id": 29, "body": "خودکار و روان نویس" },
+                  { "id": 30, "body": "ابزار نقاشی و رنگ آمیزی" },
+                  { "id": 31, "body": "میز نحریر" },
+                  { "id": 32, "body": "آلبوم عکس" },
+                  { "id": 33, "body": "کاغذ چاپ و پرینتر" },
+                  { "id": 34, "body": "مداد و مدادرنگی" }
+                ]
+              },
+              {
+                "id": 5,
+                "titlehuge": "کتاب و مجله",
+                "items": [
+                  { "id": 35, "body": "کتاب چاپی" },
+                  { "id": 36, "body": "مجلات خارجی و داخلی" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "classify": [
+              { "id": 6, "titlehuge": "کتاب صوتی", "items": [null] },
+              {
+                "id": 7,
+                "titlehuge": "محتوای آموزشی",
+                "items": [
+                  { "id": 37, "body": "آموزش موسیقی" },
+                  { "id": 38, "body": "آموزش ورزش و سرگرمی" },
+                  { "id": 39, "body": "آموزش زبان" },
+                  { "id": 40, "body": "آموزش نرم افزار و کامپیوتر" }
+                ]
+              },
+              { "id": 8, "titlehuge": "نرم افزار", "items": [null] },
+              {
+                "id": 9,
+                "titlehuge": "بازی کنسول و کامپیوتر",
+                "items": [null]
+              },
+              {
+                "id": 10,
+                "titlehuge": "فیلم سینمایی و مستند",
+                "items": [null]
+              },
+              { "id": 11, "titlehuge": "آلبوم موسیقی", "items": [null] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "subtitle": "همه محصولات کالای دیجیتال",
+        "category": [
+          {
+            "id": 1,
+            "classify": [
+              { "id": 1, "titlehuge": "تبلت", "items": [null] },
+              {
+                "id": 2,
+                "titlehuge": "خانه هوشمند",
+                "items": [
+                  { "id": 1, "body": "نورو روشنایی هوشمند" },
+                  { "id": 2, "body": "کلید و پریز هوشمند" },
+                  { "id": 3, "body": "سنسور هوشمند" },
+                  { "id": 4, "body": "هاب و دستیار صوتی هوشمند" },
+                  { "id": 5, "body": "جارو هوشمند(رباتیک)" }
+                ]
+              },
+
+              {
+                "id": 3,
+                "titlehuge": "برندهای برتر",
+                "items": [
+                  { "id": 6, "body": "شیائومی" },
+                  { "id": 7, "body": "سامسونگ" },
+                  { "id": 8, "body": "اپل" },
+                  { "id": 9, "body": "هواووی" },
+                  { "id": 10, "body": "آنر" },
+                  { "id": 11, "body": "ریلمی" },
+                  { "id": 12, "body": "توشیبا" },
+                  { "id": 13, "body": "تکنو" },
+                  { "id": 14, "body": "ایرانسل" },
+                  { "id": 15, "body": "مبین نت" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "classify": [
+              {
+                "id": 4,
+                "titlehuge": "پرینتر",
+                "items": [
+                  { "id": 16, "body": "پرینتر سه بعدی" },
+                  { "id": 17, "body": "پرینتر حرارتی" },
+                  { "id": 18, "body": "پرینتر رنگی" },
+                  { "id": 19, "body": "پرینتر لیبل زن" },
+                  { "id": 20, "body": "پرینتر اچ پی" }
+                ]
+              },
+              {
+                "id": 5,
+                "titlehuge": "ماشین های اداری",
+                "items": [
+                  { "id": 21, "body": "کابل پرینتر" },
+                  { "id": 22, "body": "کارتریچ" },
+                  { "id": 23, "body": "اسکنر" },
+                  { "id": 24, "body": "تلفن" },
+                  { "id": 25, "body": "بارکدخوان" },
+                  { "id": 26, "body": "ویدیووال" },
+                  { "id": 27, "body": "ویدیو پروژکتور" },
+                  { "id": 28, "body": "دستگاه حضور و غیاب" }
+                ]
+              },
+              {
+                "id": 6,
+                "titlehuge": "تجهیزات شبکه و ارتباطات",
+                "items": [
+                  { "id": 29, "body": "یوپی اس" },
+                  { "id": 30, "body": "سوییچ" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "classify": [
+              {
+                "id": 7,
+                "titlehuge": "هدفون",
+                "items": [
+                  { "id": 31, "body": "هدفون بی سیم" },
+                  { "id": 32, "body": "هدفون اپل(ایرپاد)" },
+                  { "id": 33, "body": "هدفون بیتس" },
+                  { "id": 34, "body": "هدفون سونی" },
+                  { "id": 35, "body": "هدفون سامسونگ (ایرپادز)" },
+                  { "id": 36, "body": "هدفون شیائومی" },
+                  { "id": 37, "body": "هدفون جی بی ال" },
+                  { "id": 38, "body": "هدفون ریزر" }
+                ]
+              },
+              { "id": 8, "titlehuge": "هدست", "items": [null] },
+              {
+                "id": 9,
+                "titlehuge": "ساعت و مچ بند هوشمند",
+                "items": [
+                  { "id": 39, "body": "ساعت هوشمند سامسونگ" },
+                  { "id": 40, "body": "ساعت هوشمند شیائومی" },
+                  { "id": 41, "body": "اپل واچ" },
+                  { "id": 42, "body": "بند اپل واچ" },
+                  { "id": 43, "body": "بند ساعت هوشمند" },
+                  { "id": 44, "body": "لوازم جانبی ساعت هوشمند" }
+                ]
+              },
+              { "id": 10, "titlehuge": "دوربین", "items": [null] }
+            ]
+          },
+          {
+            "id": 4,
+            "classify": [
+              {
+                "id": 11,
+                "titlehuge": "لپ تاپ",
+                "items": [
+                  { "id": 45, "body": "لپ تاپ ایسوس" },
+                  { "id": 46, "body": "لپ تاپ لنوو" },
+                  { "id": 47, "body": "مک بوک" },
+                  { "id": 48, "body": "لپ تاپ HP" },
+                  { "id": 49, "body": "لپ تاپ دل" },
+                  { "id": 50, "body": "لپ تاپ ایسر" },
+                  { "id": 51, "body": "لپ تاپ ام اس آی" },
+                  { "id": 52, "body": "لپ تاپ کاستوم" }
+                ]
+              },
+              {
+                "id": 12,
+                "titlehuge": "لوازم جانبی لپ تاپ",
+                "items": [
+                  { "id": 9, "subdiv4name": "شارژر لپ تاپ" },
+                  { "id": 10, "subdiv4name": "کیف لپ تاپ" },
+                  { "id": 11, "subdiv4name": "کول پد" },
+                  { "id": 12, "subdiv4name": "استیکر لپ تاپ" }
+                ]
+              },
+              {
+                "id": 13,
+                "titlehuge": "کنسول بازی",
+                "items": [
+                  { "id": 13, "subdiv4name": "PS5" },
+                  { "id": 14, "subdiv4name": "xbox" },
+                  { "id": 15, "subdiv4name": "PS4" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "subtitle": "همه محصولات خانه و آشپزخانه",
+        "category": [
+          {
+            "id": 1,
+            "classify": [
+              {
+                "id": 1,
+                "titlehuge": "ظروف پخت و پز",
+                "items": [
+                  { "id": 1, "body": "قابلمه و تابه" },
+                  { "id": 2, "body": "زودپز" },
+                  { "id": 3, "body": "سرویس پخت و پز" }
+                ]
+              },
+              {
+                "id": 2,
+                "titlehuge": "ابزار آشپزی",
+                "items": [
+                  { "id": 4, "body": "ست کفگیر و ملاقه" },
+                  { "id": 5, "body": "چاقو" },
+                  { "id": 6, "body": "تخته گوشت" },
+                  { "id": 7, "body": "ظرف و قالب یخ" },
+                  { "id": 8, "body": "قیف" },
+                  { "id": 9, "body": "صافی" },
+                  { "id": 10, "body": "گردوشکن" },
+                  { "id": 11, "body": "فندک آشپزخانه" },
+                  { "id": 12, "body": "ترازوی آشپزخانه" }
+                ]
+              },
+              {
+                "id": 3,
+                "titlehuge": "تهیه و سرو چای و قهوه",
+                "items": [
+                  { "id": 13, "body": "قهوه ساز و دمنوش  ساز" },
+                  { "id": 14, "body": "سماور" },
+                  { "id": 15, "body": "شیرجوش-قهوه جوش" },
+                  { "id": 16, "body": "قوری" },
+                  { "id": 17, "body": "کتری و قوری" },
+                  { "id": 18, "body": "فیلترچای" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "classify": [
+              {
+                "id": 4,
+                "titlehuge": "مبل",
+                "items": [
+                  { "id": 19, "body": "مبل راحتی" },
+                  { "id": 20, "body": "مبل تختخواب شو" },
+                  { "id": 21, "body": "مبل بادی" },
+                  { "id": 22, "body": "مبل تدی" },
+                  { "id": 23, "body": "مبل ال" },
+                  { "id": 24, "body": "مبل مینیمال" },
+                  { "id": 25, "body": "مبل چستر" },
+                  { "id": 26, "body": "مبل اداری و صندلی انتظار" },
+                  { "id": 27, "body": "پاف و بین بگ" },
+                  { "id": 28, "body": "صندلی کودک" }
+                ]
+              },
+              {
+                "id": 5,
+                "titlehuge": "دکوراسیون خانگی",
+                "items": [
+                  { "id": 19, "body": "کتابخانه" },
+                  { "id": 20, "body": "شلف و طبقه" },
+                  { "id": 21, "body": "کنسول" },
+                  { "id": 22, "body": "صندلی" },
+                  { "id": 23, "body": "میز ناهارخوری" }
+                ]
+              },
+              {
+                "id": 6,
+                "titlehuge": "مبلمان و دکوراسیون اداری",
+                "items": [
+                  { "id": 24, "body": "صندلی اداری" },
+                  { "id": 25, "body": "میزاداری" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "classify": [
+              {
+                "id": 7,
+                "titlehuge": "حمام",
+                "items": [
+                  { "id": 26, "body": "حوله" },
+                  { "id": 27, "body": "دمپایی" },
+                  { "id": 28, "body": "لیف" },
+                  { "id": 29, "body": "پرده حمام" },
+                  { "id": 30, "body": "وان و جکوزی" },
+                  { "id": 31, "body": "ابزار حمام" }
+                ]
+              },
+              {
+                "id": 8,
+                "titlehuge": "سرویس بهداشتی",
+                "items": [
+                  { "id": 26, "body": "توالت فرنگی" },
+                  { "id": 27, "body": "ست سرویس بهداشتی" },
+                  { "id": 28, "body": "روشویی" },
+                  { "id": 29, "body": "جامسواکی" },
+                  { "id": 30, "body": "آینه سرویس بهداشتی" },
+                  { "id": 31, "body": "فلاش تانک" },
+                  { "id": 32, "body": "مخزن مایع دستشویی" },
+                  { "id": 33, "body": "پایه رول دستمال" },
+                  { "id": 34, "body": "توالت ایرانی" },
+                  { "id": 35, "body": "آفتابه" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "subtitle": "همه محصولات لوازم خانگی برقی",
+        "category": [
+          {
+            "id": 1,
+            "classify": [
+              { "id": 1, "titlehuge": "جهیزیه", "items": [null] },
+              {
+                "id": 2,
+                "titlehuge": "تهویه,سرمایش و گرمایش",
+                "items": [
+                  { "id": 1, "body": "کولر گازی" },
+                  { "id": 2, "body": "کولر آبی" },
+                  { "id": 3, "body": "پنکه" },
+                  { "id": 4, "body": "تصویه کننده هوا" },
+                  { "id": 5, "body": "بخاری برقی" },
+                  { "id": 6, "body": "پکیج دیواری و رادیاتور" },
+                  { "id": 7, "body": "بخاری" },
+                  { "id": 8, "body": "شوفاژ برقی" },
+                  { "id": 9, "body": "آبگرمکن" }
+                ]
+              },
+              {
+                "id": 3,
+                "titlehuge": "جاروبرقی",
+                "items": [
+                  { "id": 10, "body": "جاروشارژی" },
+                  { "id": 11, "body": "لوازم جانبی جاروبرقی و بخارشور" },
+                  { "id": 12, "body": "جارورباتیک" }
+                ]
+              },
+              {
+                "id": 4,
+                "titlehuge": "ماشین لباسشویی",
+                "items": [
+                  { "id": 13, "body": "ماشین لباسشویی دوو" },
+                  { "id": 14, "body": "ماشین لباسشویی پاکشوما" },
+                  { "id": 15, "body": "ماشین لباسشویی اسنوا" },
+                  { "id": 16, "body": "مینی واش" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "classify": [
+              {
+                "id": 5,
+                "titlehuge": "یخچال فریزر",
+                "items": [
+                  { "id": 17, "body": "یخچال فریزر سایدبای ساید" },
+                  { "id": 18, "body": "یخچال فریزر دوقلو" },
+                  { "id": 19, "body": "یخچال فریزر هتلی" },
+                  { "id": 20, "body": "یخچال فریزر کمبی" }
+                ]
+              },
+              {
+                "id": 6,
+                "titlehuge": "تلویزیون",
+                "items": [
+                  { "id": 21, "body": "تلویزیون 4k" },
+                  { "id": 22, "body": "تلویزیون گیمینگ" },
+                  { "id": 23, "body": "تلویزیون OLED" },
+                  { "id": 24, "body": "تلویزیون QLED" },
+                  { "id": 25, "body": "تلویزیون 144 هرتز" },
+                  { "id": 26, "body": "تلویزیون 120 هرتز" },
+                  { "id": 27, "body": "میز تلویزیون" }
+                ]
+              },
+              {
+                "id": 7,
+                "titlehuge": "تلویزیون براساس سایز",
+                "items": [
+                  { "id": 28, "body": "تلویزیون 86 اینچ" },
+                  { "id": 29, "body": "تلویزیون 85 اینچ" },
+                  { "id": 30, "body": "تلویزیون 75 اینچ" },
+                  { "id": 31, "body": "تلویزیون 70 اینچ" },
+                  { "id": 32, "body": "تلویزیون 65 اینچ" },
+                  { "id": 33, "body": "تلویزیون 60 اینچ" },
+                  { "id": 34, "body": "تلویزیون 58 اینچ" },
+                  { "id": 35, "body": "تلویزیون 55 اینچ" },
+                  { "id": 36, "body": "تلویزیون 50 اینچ" },
+                  { "id": 37, "body": "تلویزیون 43 اینچ" },
+                  { "id": 38, "body": "تلویزیون 40 اینچ" },
+                  { "id": 39, "body": "تلویزیون 32 اینچ" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "classify": [
+              {
+                "id": 8,
+                "titlehuge": "لوازم پخت و پز",
+                "items": [
+                  { "id": 40, "body": "سرخکن بدون روغن(air fryer)" },
+                  { "id": 41, "body": "ماکروویو,ماکروفر" },
+                  { "id": 42, "body": "اجاق گاز" },
+                  { "id": 43, "body": "پلوپز" },
+                  { "id": 44, "body": "ساندویچ ساز و وافل ساز" },
+                  { "id": 45, "body": "آون توستر" },
+                  { "id": 46, "body": "گریل و باربیکیو" },
+                  { "id": 47, "body": "توستر" },
+                  { "id": 48, "body": "مولتی کوکرو تخم مرغ پز" }
+                ]
+              },
+              {
+                "id": 9,
+                "titlehuge": "اتو",
+                "items": [
+                  { "id": 49, "body": "اتوبخار ایستاده" },
+                  { "id": 50, "body": "اتوبخار" },
+                  { "id": 51, "body": "بخارگر" }
+                ]
+              },
+              {
+                "id": 10,
+                "titlehuge": "نوشیدنی ساز",
+                "items": [
+                  { "id": 52, "body": "قهوه ساز" },
+                  { "id": 53, "body": "اسپرسوساز" },
+                  { "id": 54, "body": "چای ساز" },
+                  { "id": 55, "body": "کتری برقی" },
+                  { "id": 56, "body": "سماور برقی" },
+                  { "id": 57, "body": "آبمیوه گیری" },
+                  { "id": 58, "body": "آبمیوه گیری" },
+                  { "id": 59, "body": "آب مرکبات گیر" },
+                  { "id": 60, "body": "آسیاب قهوه" }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "classify": [
+              {
+                "id": 11,
+                "titlehuge": "خردکن و غداساز",
+                "items": [
+                  { "id": 61, "body": "گوشت کوب برقی" },
+                  { "id": 62, "body": "غذاساز" },
+                  { "id": 63, "body": "همزن" },
+                  { "id": 64, "body": "مخلوط کن" },
+                  { "id": 65, "body": "چرخ گوشت" },
+                  { "id": 66, "body": "خردکن" },
+                  { "id": 67, "body": "آسیاب" }
+                ]
+              },
+              { "id": 12, "titlehuge": "بخارشو", "items": [null] },
+              {
+                "id": 13,
+                "titlehuge": "تصویه آب",
+                "items": [{ "id": 68, "body": "فیلتر تصویه آب" }]
+              },
+              {
+                "id": 14,
+                "titlehuge": "لوازم توکار",
+                "items": [
+                  { "id": 69, "body": "فر" },
+                  { "id": 70, "body": "هود" },
+                  { "id": 71, "body": "گاز صفحه ای" },
+                  { "id": 72, "body": "سینک ظرفشویی" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      { "id": 30, "subtitle": "همه محصولات مد و پوشاک", "category": [] },
+      {
+        "id": 31,
+        "subtitle": "همه محصولات ساعت,طلا و جواهرات",
+        "category": []
+      },
+      { "id": 32, "subtitle": "همه محصولات آرایشی و بهداشتی", "category": [] },
+      {
+        "id": 33,
+        "subtitle": "همه محصولات تجهیزات پزشکی و سلامت",
+        "category": []
+      },
+      { "id": 34, "subtitle": "همه محصولات ورزش و سفر", "category": [] },
+      { "id": 35, "subtitle": "همه محصولات کارت هدیه", "category": [] },
+      { "id": 36, "subtitle": "همه محصولات سوپرمارکتی", "category": [] },
+      {
+        "id": 37,
+        "subtitle": "همه محصولات اسباب بازی,کودک و نوزاد",
+        "category": []
+      },
+      {
+        "id": 38,
+        "subtitle": "همه محصولات ابزارآلات و تجهیزات",
+        "category": []
+      },
+      {
+        "id": 39,
+        "subtitle": "همه محصولات خودرو و موتورسیکلت",
+        "category": []
+      },
+      { "id": 40, "subtitle": "همه محصولات بومی و محلی", "category": [] }
+    ],
+    "navbar": [
+      {
+        "id": 41,
+        "svg": "svg/bottommenu/shegeftangiz.svg",
+        "body": "شگفت انگیزها"
+      },
+      {
+        "id": 42,
+        "svg": "svg/bottommenu/soopermarket.svg",
+        "body": "سوپرمارکت"
+      },
+      {
+        "id": 43,
+        "svg": "svg/bottommenu/taladigital.svg",
+        "body": "طلای دیجیتال"
+      },
+      {
+        "id": 44,
+        "svg": "svg/bottommenu/porforosh.svg",
+        "body": "پرفروش ترین ها"
+      },
+      {
+        "id": 45,
+        "svg": "svg/bottommenu/mobile.svg",
+        "body": "خریدکالای کار کرده"
+      },
+      { "id": 46, "svg": "svg/bottommenu/soal.svg", "body": "سوالی دارید؟" },
+      { "id": 47, "svg": null, "body": "در دیجی کالا بفروشید!" }
+    ],
+    "repeatloc": [
+      { "id": 1, "name": "آذربایجان غربی" },
+      { "id": 2, "name": "آذربایجان شرقی" },
+      { "id": 3, "name": "اردبیل" },
+      { "id": 4, "name": "اصفهان" },
+      { "id": 5, "name": "البرز" },
+      { "id": 6, "name": "ایلام" },
+      { "id": 7, "name": "بوشهر" },
+      { "id": 8, "name": "تهران" },
+      { "id": 9, "name": "چهارمحال و بختیاری" },
+      { "id": 10, "name": "خراسان جنوبی" },
+      { "id": 11, "name": "خراسان رضوی" },
+      { "id": 12, "name": "خراسان شمالی" },
+      { "id": 13, "name": "خوزستان" },
+      { "id": 14, "name": "زنجان" },
+      { "id": 15, "name": "سمنان" },
+      { "id": 16, "name": "سیستان و بلوچستان" },
+      { "id": 17, "name": "فارس" },
+      { "id": 18, "name": "قزوین" },
+      { "id": 19, "name": "قم" },
+      { "id": 20, "name": "کردستان" },
+      { "id": 21, "name": "کرمان" },
+      { "id": 22, "name": "کرمانشاه" },
+      { "id": 23, "name": "کهگیلویه و بویراحمد" },
+      { "id": 24, "name": "گلستان" },
+      { "id": 25, "name": "گیلان" },
+      { "id": 26, "name": "لرستان" },
+      { "id": 27, "name": "مازندران" },
+      { "id": 28, "name": "مرکزی" },
+      { "id": 29, "name": "هرمزگان" },
+      { "id": 30, "name": "همدان" },
+      { "id": 31, "name": "یزد" }
+    ]
+  },
+  "story": [
+    {
+      "id": 1,
+      "img": "images/story/image1.png",
+      "name": "مشاور خرید موبایل و کالای الکترونیک"
+    },
+    {
+      "id": 2,
+      "img": "images/story/image2.png",
+      "name": "گردونه میلیاردی"
+    },
+    {
+      "id": 3,
+      "img": "images/story/image3.png",
+      "name": "بررسی کامل Galaxy Z fold7"
+    },
+    {
+      "id": 4,
+      "img": "images/story/image4.png",
+      "name": "فر یورزفرندلی الیور"
+    },
+    {
+      "id": 5,
+      "img": "images/story/image5.png",
+      "name": "خداحافظی با گره های موهات"
+    },
+    {
+      "id": 6,
+      "img": "images/story/image6.png",
+      "name": "کولر گازی اسپلیت تی سی ال مدلXA73N"
+    },
+    {
+      "id": 7,
+      "img": "images/story/image7.png",
+      "name": "کلاسیک خنک"
+    },
+    {
+      "id": 8,
+      "img": "images/story/image8.png",
+      "name": "برای کوچولوهای کلاس اولی"
+    },
+    {
+      "id": 9,
+      "img": "images/story/image9.png",
+      "name": "این دیگه چیه؟  اندک پرینتر"
+    },
+    {
+      "id": 10,
+      "img": "images/story/image10.png",
+      "name": "بی نظیر اما ساده"
+    },
+    {
+      "id": 11,
+      "img": "images/story/image11.png",
+      "name": "اجاق گاز مدلIG-8503"
+    },
+    {
+      "id": 12,
+      "img": "images/story/image12.png",
+      "name": "مصر روی میز بازی"
+    },
+    {
+      "id": 13,
+      "img": "images/story/image13.png",
+      "name": "هود مخفی کن مدل آرتیما"
+    },
+    {
+      "id": 14,
+      "img": "images/story/image14.png",
+      "name": "جای دستمال کاغذی خودرو مدل روکنسولی"
+    },
+    {
+      "id": 15,
+      "img": "images/story/image15.png",
+      "name": "استند گردان آرایشی"
+    },
+    {
+      "id": 16,
+      "img": "images/story/image16.png",
+      "name": "ULanzi A30"
+    },
+    {
+      "id": 17,
+      "img": "images/story/image17.png",
+      "name": "تپه ندیده!!"
+    },
+    {
+      "id": 18,
+      "img": "images/story/image18.png",
+      "name": "دیدی ضدآبه؟"
+    },
+    {
+      "id": 19,
+      "img": "images/story/image19.png",
+      "name": "کلید انتقال فایل"
+    }
+  ],
+  "slider": [
+    { "id": 1, "img": "images/slider/image1.png" },
+    { "id": 2, "img": "images/slider/image2.png" },
+    { "id": 3, "img": "images/slider/image3.png" },
+    { "id": 4, "img": "images/slider/image4.png" },
+    { "id": 5, "img": "images/slider/image5.png" },
+    { "id": 6, "img": "images/slider/image6.png" },
+    { "id": 7, "img": "images/slider/image7.png" },
+    { "id": 8, "img": "images/slider/image8.png" }
+  ],
+  "digitype": [
+    {
+      "id": 1,
+      "img": "images/digitype/image1.png",
+      "name": "سوپرمارکت"
+    },
+    {
+      "id": 2,
+      "img": "images/digitype/image2.png",
+      "name": "طلای دیجیتال بدون کارمزد"
+    },
+    {
+      "id": 3,
+      "img": "images/digitype/image3.png",
+      "name": "تمدید شانس بیت کوین"
+    },
+    {
+      "id": 4,
+      "img": "images/digitype/image4.png",
+      "name": "حراج پایان فصل"
+    },
+    { "id": 5, "img": "images/digitype/image5.png", "name": "موبایل اقتصادی" },
+    {
+      "id": 6,
+      "img": "images/digitype/image6.png",
+      "name": "جدیدترین فروشندگان"
+    },
+    {
+      "id": 7,
+      "img": "images/digitype/image7.png",
+      "name": "چله تابستون"
+    },
+    {
+      "id": 8,
+      "img": "images/digitype/image8.png",
+      "name": "اشتراک پلاس"
+    },
+    {
+      "id": 9,
+      "img": "images/digitype/image9.png",
+      "name": "تناسب اندام"
+    }
+  ],
+  "amazing": {
+    "shegeftangiz": "svg/amazing/shegeft.svg",
+    "percentage": "svg/amazing/percentage.svg",
+    "flesh": "svg/amazing/fleshbechap.svg",
+    "fleshhuge": "svg/amazing/fleshhuge.svg",
+    "roll": [
+      {
+        "id": 1,
+        "img": "images/amazing/image1.png",
+        "text": "گوشی موبایل جی ال ایکس مدلF8 دو سیم کارت",
+        "price": "1,219,000",
+        "pureprice": "1,380,000",
+        "percentage": "12%"
+      },
+      {
+        "id": 2,
+        "img": "images/amazing/image2.png",
+        "text": "گوشی موبایل تی سی ال مدل nxpaper40دو سیم کارت",
+        "price": "10,799,000",
+        "pureprice": "12,108,700",
+        "percentage": "11%"
+      },
+      {
+        "id": 3,
+        "img": "images/amazing/image3.png",
+        "text": "گوشی موبایل آنر مدل x5b دوسیم کارت",
+        "price": "6,599,000",
+        "pureprice": "7,200,000",
+        "percentage": "8%"
+      },
+      {
+        "id": 4,
+        "img": "images/amazing/image4.png",
+        "text": "گوشی موبایل جی ال ایکس مدل c66 دوسیم کارت",
+        "price": "1,099,000",
+        "pureprice": "1,199,000",
+        "percentage": "8%"
+      },
+      {
+        "id": 5,
+        "img": "images/amazing/image5.png",
+        "text": "هدست بلوتوثی انکر مدل soundcore Q11i",
+        "price": "2,090,000",
+        "pureprice": "2,630,000",
+        "percentage": "21%"
+      },
+      {
+        "id": 6,
+        "img": "images/amazing/image6.png",
+        "text": "هدفون بلوتوثی ریمکس مدل RB-S1",
+        "price": "649,000",
+        "pureprice": "799,000",
+        "percentage": "19%"
+      },
+      {
+        "id": 7,
+        "img": "images/amazing/image7.png",
+        "text": "هدست بی سیم اوی مدل A997BL",
+        "price": "1,299,000",
+        "pureprice": "1,495,000",
+        "percentage": "13%"
+      },
+      {
+        "id": 8,
+        "img": "images/amazing/image8.png",
+        "text": "لپ تاپ ایسوس مدل  vivobook E1504F 15.5",
+        "price": "21,900,00",
+        "pureprice": "26,900,000",
+        "percentage": "19%"
+      },
+      {
+        "id": 9,
+        "img": "images/amazing/image9.png",
+        "text": "لپ تاپ 15.6 اینچی مدل vivobook 15",
+        "price": "50,200,000",
+        "pureprice": "52,799,000",
+        "percentage": "5%"
+      },
+      {
+        "id": 10,
+        "img": "images/amazing/image10.png",
+        "text": "لپ تاپ 15.6 اینچی ایسوس مدل vivobook GO15",
+        "price": "28,499,000",
+        "pureprice": "29,800,000",
+        "percentage": "4%"
+      },
+      {
+        "id": 11,
+        "img": "images/amazing/image11.png",
+        "text": "لپ تاپ 15.6اینچی MSI مدل B13UCX-i5",
+        "price": "53,899,000",
+        "pureprice": "55,899,000",
+        "percentage": "4%"
+      },
+      {
+        "id": 12,
+        "img": "images/amazing/image12.png",
+        "text": "جارو خودرو مدل xm002d",
+        "price": "1,490,000",
+        "pureprice": "4,100,000",
+        "percentage": "64%"
+      }
+    ]
+  },
+  "fourpics": [
+    { "id": 1, "img": "images/fourpics/image1.png" },
+    { "id": 2, "img": "images/fourpics/image2.png" },
+    { "id": 3, "img": "images/fourpics/image3.png" },
+    { "id": 4, "img": "images/fourpics/image4.png" }
+  ],
+  "sooperamazing": {
+    "basket": "images/sooperamazing/basket.png",
+    "textsooper": "images/sooperamazing/textsooper.png",
+    "discount": "70%",
+    "category": [
+      {
+        "id": 1,
+        "img": "images/sooperamazing/image1.png",
+        "text": "70%"
+      },
+      {
+        "id": 2,
+        "img": "images/sooperamazing/image2.png",
+        "text": "40%"
+      },
+      {
+        "id": 3,
+        "img": "images/sooperamazing/image3.png",
+        "text": "40%"
+      },
+      {
+        "id": 4,
+        "img": "images/sooperamazing/image4.png",
+        "text": "40%"
+      },
+      {
+        "id": 5,
+        "img": "images/sooperamazing/image5.png",
+        "text": "40%"
+      },
+      {
+        "id": 6,
+        "img": "images/sooperamazing/image6.png",
+        "text": "40%"
+      }
+    ],
+    "flesh": "svg/sooperamazing/flesh.svg"
+  },
+  "fourpics2": {
+    "category": [
+      { "id": 1, "img": "images/fourpics2/image1.png" },
+      { "id": 2, "img": "images/fourpics2/image2.png" },
+      { "id": 3, "img": "images/fourpics2/image3.png" },
+      { "id": 4, "img": "images/fourpics2/image4.png" }
+    ],
+    "image5": "images/fourpics2/image5.png"
+  },
+  "classifyshop": [
+    {
+      "id": 1,
+      "section": [
+        {
+          "id": 1,
+          "img": "images/classifyshop/image1.png",
+          "text": "موبایل"
+        },
+        {
+          "id": 2,
+          "img": "images/classifyshop/image2.png",
+          "text": "طلا و نقره"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": [
+        {
+          "id": 3,
+          "img": "images/classifyshop/image3.png",
+          "text": "لوازم تحریر"
+        },
+        {
+          "id": 4,
+          "img": "images/classifyshop/image4.png",
+          "text": "تجهیزات پزشکی و سلامت"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": [
+        {
+          "id": 5,
+          "img": "images/classifyshop/image5.png",
+          "text": "لپ تاپ"
+        },
+        {
+          "id": 6,
+          "img": "images/classifyshop/image6.png",
+          "text": "کتاب و هنر"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": [
+        {
+          "id": 7,
+          "img": "images/classifyshop/image7.png",
+          "text": "کالای دیجیتال"
+        },
+        {
+          "id": 8,
+          "img": "images/classifyshop/image8.png",
+          "text": "ورزش و سفر"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": [
+        {
+          "id": 9,
+          "img": "images/classifyshop/image9.png",
+          "text": "خانه و آشپزخانه"
+        },
+        {
+          "id": 10,
+          "img": "images/classifyshop/image10.png",
+          "text": "کارت هدبه و گیفت کارت"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": [
+        {
+          "id": 11,
+          "img": "images/classifyshop/image11.png",
+          "text": "لوازم خانگی برقی"
+        },
+        {
+          "id": 12,
+          "img": "images/classifyshop/image12.png",
+          "text": "سوپرمارکت آنلاین"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": [
+        {
+          "id": 13,
+          "img": "images/classifyshop/image13.png",
+          "text": "آرایشی و بهداشتی"
+        },
+        {
+          "id": 14,
+          "img": "images/classifyshop/image14.png",
+          "text": "اسباب بازی,کودک و نوزاد"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": [
+        {
+          "id": 15,
+          "img": "images/classifyshop/image15.png",
+          "text": "مدو پوشاک"
+        },
+        {
+          "id": 16,
+          "img": "images/classifyshop/image16.png",
+          "text": "محصولات بومی و محلی"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": [
+        {
+          "id": 17,
+          "img": "images/classifyshop/image17.png",
+          "text": "خودرو و موتورسیکلت"
+        },
+        {
+          "id": 18,
+          "img": "images/classifyshop/image18.png",
+          "text": "پت شاپ"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": [
+        {
+          "id": 19,
+          "img": "images/classifyshop/image19.png",
+          "text": "ابزارآلات و تجهیزات"
+        }
+      ]
+    }
+  ],
+  "twopics": [
+    { "id": 1, "img": "images/twopics/image1.png" },
+    { "id": 2, "img": "images/twopics/image2.png" }
+  ],
+  "favoritebrand": {
+    "star": "svg/favoritebrand/star.svg",
+    "title": "محبوب ترین برند ها",
+    "category": [
+      { "id": 1, "img": "images/favoritebrand/image1.png" },
+      { "id": 2, "img": "images/favoritebrand/image2.png" },
+      { "id": 3, "img": "images/favoritebrand/image3.png" },
+      { "id": 4, "img": "images/favoritebrand/image4.png" },
+      { "id": 5, "img": "images/favoritebrand/image5.png" },
+      { "id": 6, "img": "images/favoritebrand/image6.png" },
+      { "id": 7, "img": "images/favoritebrand/image7.png" },
+      { "id": 8, "img": "images/favoritebrand/image8.png" },
+      { "id": 9, "img": "images/favoritebrand/image9.png" },
+      { "id": 10, "img": "images/favoritebrand/image10.png" },
+      { "id": 11, "img": "images/favoritebrand/image11.png" },
+      { "id": 12, "img": "images/favoritebrand/image12.png" },
+      { "id": 13, "img": "images/favoritebrand/image13.png" },
+      { "id": 14, "img": "images/favoritebrand/image14.png" },
+      { "id": 15, "img": "images/favoritebrand/image15.png" },
+      { "id": 16, "img": "images/favoritebrand/image16.png" },
+      { "id": 17, "img": "images/favoritebrand/image17.png" },
+      { "id": 18, "img": "images/favoritebrand/image18.png" },
+      { "id": 19, "img": "images/favoritebrand/image19.png" },
+      { "id": 20, "img": "images/favoritebrand/image20.png" },
+      { "id": 21, "img": "images/favoritebrand/image21.png" },
+      { "id": 22, "img": "images/favoritebrand/image22.png" },
+      { "id": 23, "img": "images/favoritebrand/image23.png" }
+    ]
+  },
+  "twopics2": [
+    { "id": 1, "img": "images/twopics2/image1.png" },
+    { "id": 2, "img": "images/twopics2/image2.png" }
+  ],
+  "foursection": [
+    {
+      "id": 1,
+      "title": "گوشی موبایل",
+      "section": [
+        {
+          "id": 1,
+          "part": [
+            { "id": 1, "img": "images/foursection/image1.png" },
+            { "id": 2, "img": "images/foursection/image2.png" }
+          ]
+        },
+        {
+          "id": 2,
+          "part": [
+            { "id": 3, "img": "images/foursection/image3.png" },
+            { "id": 4, "img": "images/foursection/image4.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "کیف و کاور گوشی",
+      "section": [
+        {
+          "id": 3,
+          "part": [
+            { "id": 5, "img": "images/foursection/image5.png" },
+            { "id": 6, "img": "images/foursection/image6.png" }
+          ]
+        },
+
+        {
+          "id": 4,
+          "part": [
+            { "id": 7, "img": "images/foursection/image7.png" },
+            { "id": 8, "img": "images/foursection/image8.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "هدفون,هدست و هندزفری",
+      "section": [
+        {
+          "id": 5,
+          "part": [
+            { "id": 9, "img": "images/foursection/image9.png" },
+            { "id": 10, "img": "images/foursection/image10.png" }
+          ]
+        },
+        {
+          "id": 6,
+          "part": [
+            { "id": 11, "img": "images/foursection/image11.png" },
+            { "id": 12, "img": "images/foursection/image12.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ساعت عقربه ای مردانه",
+      "section": [
+        {
+          "id": 7,
+          "part": [
+            { "id": 13, "img": "images/foursection/image13.png" },
+            { "id": 14, "img": "images/foursection/image14.png" }
+          ]
+        },
+        {
+          "id": 8,
+          "part": [
+            { "id": 15, "img": "images/foursection/image15.png" },
+            { "id": 16, "img": "images/foursection/image16.png" }
+          ]
+        }
+      ]
+    }
+  ],
+  "hotsale": {
+    "fire": "svg/hotsale/fire.svg",
+    "title": "پرفروش ترین کالاها",
+    "subtitle": "مشاهده همه",
+    "category": [
+      {
+        "id": 1,
+        "section": [
+          {
+            "id": 1,
+            "img": "images/hotsale/image1.png",
+            "number": 1,
+            "text": "کره حیوانی کاله -50 گرم"
+          },
+          {
+            "id": 2,
+            "img": "images/hotsale/image2.png",
+            "number": 2,
+            "text": "شکر سفید الماس دانه-1 کیلوگرم"
+          },
+          {
+            "id": 3,
+            "img": "images/hotsale/image3.png",
+            "number": 3,
+            "text": "کنسرو تن ماهی در روغن گیاهی محفل-180 گرم"
+          }
+        ]
+      },
+
+      {
+        "id": 2,
+        "section": [
+          {
+            "id": 4,
+            "img": "images/hotsale/image4.png",
+            "number": 4,
+            "text": "اسنک طلایی چی توز-190 گرم"
+          },
+          {
+            "id": 5,
+            "img": "images/hotsale/image5.png",
+            "number": 5,
+            "text": "قرص زینک پلاس یوروویتال 15 میلی گرم بسته 60 عددی"
+          },
+          {
+            "id": 6,
+            "img": "images/hotsale/image6.png",
+            "number": 6,
+            "text": "پنیر سفید ایرانی پگاه-400 گرم"
+          }
+        ]
+      },
+
+      {
+        "id": 3,
+        "section": [
+          {
+            "id": 7,
+            "img": "images/hotsale/image7.png",
+            "number": 7,
+            "text": "خامه فرادما پگاه مقدار 200 میلی لیتر"
+          },
+          {
+            "id": 8,
+            "img": "images/hotsale/image8.png",
+            "number": 8,
+            "text": "گوشی موبایل شیائومی مدل redmi note 14 4G دو سیم کارت"
+          },
+          {
+            "id": 9,
+            "img": "images/hotsale/image9.png",
+            "number": 9,
+            "text": "سیب زمینی fresh مقدار 1 کیلوگرم"
+          }
+        ]
+      },
+
+      {
+        "id": 4,
+        "section": [
+          {
+            "id": 10,
+            "img": "images/hotsale/image10.png",
+            "number": 10,
+            "text": "هدفون بلوتوثی انکر مدل soundcore R50i A3949"
+          },
+          {
+            "id": 11,
+            "img": "images/hotsale/image11.png",
+            "number": 11,
+            "text": "رب گوجه فرنگی طبیعت مقدار 700 گرم"
+          },
+          {
+            "id": 12,
+            "img": "images/hotsale/image12.png",
+            "number": 12,
+            "text": "آب معدنی میوا-500 میلی لیتر بسته 12 عددی"
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "section": [
+          {
+            "id": 13,
+            "img": "images/hotsale/image13.png",
+            "number": 13,
+            "text": "رب گوجه فرنگی روژین مقدار 800 گرم"
+          },
+          {
+            "id": 14,
+            "img": "images/hotsale/image14.png",
+            "number": 14,
+            "text": "کپسول ویتامین E 400 واحد یوروویتال بسته 40 عددی"
+          },
+          {
+            "id": 15,
+            "img": "images/hotsale/image15.png",
+            "number": 15,
+            "text": "کره غیرلاکتیکی بدون نمک پگاه-100 گرم"
+          }
+        ]
+      },
+
+      {
+        "id": 6,
+        "section": [
+          {
+            "id": 16,
+            "img": "images/hotsale/image16.png",
+            "number": 16,
+            "text": "شامپو مولتی ویتامین موچرب گلرنگ سری plus protein"
+          },
+          {
+            "id": 17,
+            "img": "images/hotsale/image17.png",
+            "number": 17,
+            "text": "کالباس 90 درصد گوشت مرغ مهیا پروتئین-250 گرم"
+          },
+          {
+            "id": 18,
+            "img": "images/hotsale/image18.png",
+            "number": 18,
+            "text": "خامه صباح-200 گرم"
+          }
+        ]
+      }
+    ]
+  },
+  "foursection2": [
+    {
+      "id": 1,
+      "title": "سشوار",
+      "section": [
+        {
+          "id": 1,
+          "part": [
+            { "id": 1, "img": "images/foursection2/image1.png" },
+            { "id": 2, "img": "images/foursection2/image2.png" }
+          ]
+        },
+        {
+          "id": 2,
+          "part": [
+            { "id": 3, "img": "images/foursection2/image3.png" },
+            { "id": 4, "img": "images/foursection2/image4.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "جوراب مردانه",
+      "section": [
+        {
+          "id": 3,
+          "part": [
+            { "id": 5, "img": "images/foursection2/image5.png" },
+            { "id": 6, "img": "images/foursection2/image6.png" }
+          ]
+        },
+
+        {
+          "id": 4,
+          "part": [
+            { "id": 7, "img": "images/foursection2/image7.png" },
+            { "id": 8, "img": "images/foursection2/image8.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "لپ تاپ و الترابوک",
+      "section": [
+        {
+          "id": 5,
+          "part": [
+            { "id": 9, "img": "images/foursection2/image9.png" },
+            { "id": 10, "img": "images/foursection2/image10.png" }
+          ]
+        },
+        {
+          "id": 6,
+          "part": [
+            { "id": 11, "img": "images/foursection2/image11.png" },
+            { "id": 12, "img": "images/foursection2/image12.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "ساعت هوشمند",
+      "section": [
+        {
+          "id": 7,
+          "part": [
+            { "id": 13, "img": "images/foursection2/image13.png" },
+            { "id": 14, "img": "images/foursection2/image14.png" }
+          ]
+        },
+        {
+          "id": 8,
+          "part": [
+            { "id": 15, "img": "images/foursection2/image15.png" },
+            { "id": 16, "img": "images/foursection2/image16.png" }
+          ]
+        }
+      ]
+    }
+  ],
+  "montakhab": {
+    "title": "منتخب محصولات تخفیف و حراج",
+    "haraj": "svg/montakhab/haraj.svg",
+    "toman": "svg/montakhab/toman.svg",
+    "category": [
+      {
+        "id": 1,
+        "section": [
+          {
+            "id": 1,
+            "img": "public/images/montakhab/image1.png",
+            "h6text": "64%",
+            "h5text": "429.000",
+            "h6row": "1.189.000"
+          },
+          {
+            "id": 2,
+            "img": "public/images/montakhab/image2.png",
+            "h6text": "64%",
+            "h5text": "429.000",
+            "h6row": "1.189.000"
+          },
+          {
+            "id": 3,
+            "img": "public/images/montakhab/image3.png",
+            "h6text": "64%",
+            "h5text": "429.000",
+            "h6row": "1.189.000"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "section": [
+          {
+            "id": 4,
+            "img": "public/images/montakhab/image4.png",
+            "h6text": "1164%",
+            "h5text": "429.000",
+            "h6row": "1.189.000"
+          },
+          {
+            "id": 5,
+            "img": "public/images/montakhab/image5.png",
+            "h6text": "0%",
+            "h5text": "1.049.000",
+            "h6row": ""
+          },
+          {
+            "id": 6,
+            "img": "public/images/montakhab/image6.png",
+            "h6text": "15%",
+            "h5text": "1.099.000",
+            "h6row": "1.300.000"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "section": [
+          {
+            "id": 7,
+            "img": "public/images/montakhab/image7.png",
+            "h6text": "15%",
+            "h5text": "1.010.000",
+            "h6row": "1.190.000"
+          },
+          {
+            "id": 8,
+            "img": "public/images/montakhab/image8.png",
+            "h6text": "14%",
+            "h5text": "876.340",
+            "h6row": "1.019.000"
+          },
+          {
+            "id": 9,
+            "img": "public/images/montakhab/image9.png",
+            "h6text": "89%",
+            "h5text": "2.750.000",
+            "h6row": "25.000.000"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "section": [
+          {
+            "id": 10,
+            "img": "public/images/montakhab/image10.png",
+            "h6text": "79%",
+            "h5text": "199.000",
+            "h6row": "950.000"
+          },
+          {
+            "id": 11,
+            "img": "public/images/montakhab/image11.png",
+            "h6text": "89%",
+            "h5text": "545.900",
+            "h6row": "5.000.000"
+          },
+          {
+            "id": 12,
+            "img": "public/images/montakhab/image12.png",
+            "h6text": "86%",
+            "h5text": "420.000",
+            "h6row": "3.000.000"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "section": [
+          {
+            "id": 13,
+            "img": "public/images/montakhab/image13.png",
+            "h6text": "86%",
+            "h5text": "298.000",
+            "h6row": "2.100.000"
+          },
+          {
+            "id": 14,
+            "img": "public/images/montakhab/image14.png",
+            "h6text": "86%",
+            "h5text": "199.000",
+            "h6row": "1.400.000"
+          },
+          {
+            "id": 15,
+            "img": "public/images/montakhab/image15.png",
+            "h6text": "64%",
+            "h5text": "4.990.000",
+            "h6row": "14.000.000"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "section": [
+          {
+            "id": 16,
+            "img": "public/images/montakhab/image16.png",
+            "h6text": "59%",
+            "h5text": "615.000",
+            "h6row": "1.500.000"
+          },
+          {
+            "id": 17,
+            "img": "public/images/montakhab/image17.png",
+            "h6text": "58%",
+            "h5text": "1.595.000",
+            "h6row": "3.800.000"
+          },
+          {
+            "id": 18,
+            "img": "public/images/montakhab/image18.png",
+            "h6text": "57%",
+            "h5text": "1.680.000",
+            "h6row": "3.900.000"
+          }
+        ]
+      }
+    ]
+  },
+  "hotsale2": {
+    "fire": "svg/hotsale/fire.svg",
+    "title": "داغ ترین چند ساعت گذشته",
+    "category": [
+      {
+        "id": 1,
+        "section": [
+          {
+            "id": 1,
+            "img": "images/hotsale2/image1.png",
+            "number": 1,
+            "text": "ساشه موسیلیوم ایران داروک بسته 7 عددی"
+          },
+          {
+            "id": 2,
+            "img": "images/hotsale2/image2.png",
+            "number": 2,
+            "text": "هدفون بلوتوثی ناتینگ مدل CMF buds2 plus"
+          },
+          {
+            "id": 3,
+            "img": "images/hotsale2/image3.png",
+            "number": 3,
+            "text": "لپ تاپ 15.6 اینچی لنوو مدل 15AMN8-R3 Slim3 IdeaPad"
+          }
+        ]
+      },
+
+      {
+        "id": 2,
+        "section": [
+          {
+            "id": 4,
+            "img": "images/hotsale2/image4.png",
+            "number": 4,
+            "text": "پودر کراتین مونوهیدرات فارماتک-300گرم"
+          },
+          {
+            "id": 5,
+            "img": "images/hotsale2/image5.png",
+            "number": 5,
+            "text": "کرم ضدآفتاب رنگی آرت ویناspf0مدل 2محافظUVB,UVA,PA+++"
+          },
+          {
+            "id": 6,
+            "img": "images/hotsale2/image6.png",
+            "number": 6,
+            "text": "سرویس پخت و پز 7پارچه نالینوگراتینی مدل Nasr"
+          }
+        ]
+      },
+
+      {
+        "id": 3,
+        "section": [
+          {
+            "id": 7,
+            "img": "images/hotsale2/image7.png",
+            "number": 7,
+            "text": "کفش روزمره مردانه کفش شیمامدل زایس کد 102 رنگ قهوه ای "
+          },
+          {
+            "id": 8,
+            "img": "images/hotsale2/image8.png",
+            "number": 8,
+            "text": "کیف رودوشی زنونه پرتیزس مدل 206 کد 2010043"
+          },
+          {
+            "id": 9,
+            "img": "images/hotsale2/image9.png",
+            "number": 9,
+            "text": "کوله پشتی توریث مدل VD-4900 به همراه جامدادی"
+          }
+        ]
+      },
+
+      {
+        "id": 4,
+        "section": [
+          {
+            "id": 10,
+            "img": "images/hotsale2/image10.png",
+            "number": 10,
+            "text": "اسپرسوساز 1.1لیتری دلونگی مدل ECP35.31"
+          },
+          {
+            "id": 11,
+            "img": "images/hotsale2/image11.png",
+            "number": 11,
+            "text": "ساعت مچی عقربه ای کوارتز مردانه الگانس مدل EMSSJ9810"
+          },
+          {
+            "id": 12,
+            "img": "images/hotsale2/image12.png",
+            "number": 12,
+            "text": "بادی اسپلش زنانه رندل مدل ویکتوریا سکرت بامبشل حجم 300 میلی لیتر"
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "section": [
+          {
+            "id": 13,
+            "img": "images/hotsale2/image13.png",
+            "number": 13,
+            "text": "عینک هوشمند ایکس او مدل xo-E9"
+          },
+          {
+            "id": 14,
+            "img": "images/hotsale2/image14.png",
+            "number": 14,
+            "text": "خردکن سیلور کرست مدل KR-2023"
+          },
+          {
+            "id": 15,
+            "img": "images/hotsale2/image15.png",
+            "number": 15,
+            "text": "سوتین زنانه ماییلدا مدل بدون فتر کد MY3400 رنگ سیز"
+          }
+        ]
+      },
+
+      {
+        "id": 6,
+        "section": [
+          {
+            "id": 16,
+            "img": "images/hotsale2/image16.png",
+            "number": 16,
+            "text": "کابل تبدیل usb-c به جک 3.5میلیمتری ایکس او مدل nbr257c"
+          },
+          {
+            "id": 17,
+            "img": "images/hotsale2/image17.png",
+            "number": 17,
+            "text": "کتری برقی ولگامدل VOLGA-10-I"
+          },
+          {
+            "id": 18,
+            "img": "images/hotsale2/image18.png",
+            "number": 18,
+            "text": "جاکارتی چرم جانتا مدل 196A"
+          }
+        ]
+      }
+    ]
+  },
+  "khandaniha": {
+    "title": "خواندنی ها",
+    "subtitle": "مطالب بیشتر در دیجی کالا مگ",
+    "flesh": "svg/khandaniha/flesh.svg",
+    "category": [
+      {
+        "id": 1,
+        "img": "images/khandaniha/image1.png",
+        "p": "واتساپ با اعمال محدودیت جدید به جنگ پیام های اسپم می رود"
+      },
+      {
+        "id": 2,
+        "img": "images/khandaniha/image2.png",
+        "p": "بهترین روغن گیاهی برای سفیدشدن پوست صورت"
+      },
+      {
+        "id": 3,
+        "img": "images/khandaniha/image3.png",
+        "p": "بهترین نوع نان برای کبد چرب"
+      },
+      {
+        "id": 4,
+        "img": "images/khandaniha/image4.png",
+        "p": "بهترین جاروبرقی ایستاده سیم دار:معرفی 3 مدل برتر و پرفروش بازار"
+      }
+    ]
+  },
+  "footer": {
+    "subdigikala": "svg/footer/subdigikala.svg",
+    "fleshbala": "svg/footer/fleshbebala.svg",
+    "titlebtn": "بازگشت به بالا",
+    "information": [
+      { "id": 1, "title": " تلفن پشتیبانی 02161930000" },
+      { "id": 2, "title": "021-91000100" },
+      { "id": 3, "title": "7روز هفته,24ساعته پاسخگوی شما هستیم" }
+    ],
+    "box3": [
+      { "id": 1, "title": "امکان تحویل اکسپرس", "svg": "svg/footer/box.svg" },
+      { "id": 2, "title": "امکان پرداخت در محل", "svg": "svg/footer/hand.svg" },
+      {
+        "id": 3,
+        "title": "7روز هفته,24ساعته",
+        "svg": "images/footer/7days.png"
+      },
+      {
+        "id": 4,
+        "title": "هفت روز ضمانت بازگشت کالا",
+        "svg": "svg/footer/reverse.svg"
+      },
+      {
+        "id": 5,
+        "title": "ضمانت اصل بودن کالا",
+        "svg": "svg/footer/original.svg"
+      }
+    ],
+    "box4": [
+      {
+        "id": 1,
+        "title": "با دیجی کالا",
+        "items": [
+          { "id": 1, "body": "اتاق خبر دیجی کالا" },
+          { "id": 2, "body": "فروش در دیجی کالا" },
+          { "id": 3, "body": "فرصت های شغلی" },
+          { "id": 4, "body": "گزارش تخلف در دیجی کالا" },
+          { "id": 5, "body": "تماس با دیجی کالا" },
+          { "id": 6, "body": "درباره ی دیجی کالا" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "خدمات مشتریان",
+        "items": [
+          { "id": 7, "body": "پاسخ به پرسش های مشتریان" },
+          { "id": 8, "body": "رویه های بازگرداندن کالا" },
+          { "id": 9, "body": "شرایط استفاده" },
+          { "id": 10, "body": "حریم خصوصی" },
+          { "id": 11, "body": "گزارش باگ" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "راهنمای خرید از دیجی کالا",
+        "items": [
+          { "id": 12, "body": "نحوه ی ثبت سفارش" },
+          { "id": 13, "body": "رویه ارسال سفارش" },
+          { "id": 14, "body": "شیوه های پرداخت" }
+        ]
+      }
+    ],
+    "withus": "همراه ما باشید",
+    "logos": [
+      { "id": 1, "image": "svg/footer/linkdin.svg" },
+      { "id": 2, "image": "svg/footer/instagram.svg" },
+      { "id": 3, "image": "svg/footer/twitter.svg" },
+      { "id": 4, "image": "svg/footer/aparat.svg" }
+    ],
+    "textlogos": "با ثبت ایمیل,از جدیدترین تخفیف ها با خبر شوید!",
+    "accordion": [
+      { "id": 1, "body": "svg/footer/digichild1.svg" },
+      { "id": 2, "body": "svg/footer/digichild2.svg" },
+      { "id": 3, "body": "svg/footer/digichild3.svg" },
+      { "id": 4, "body": "svg/footer/digichild4.svg" },
+      { "id": 5, "body": "svg/footer/digichild5.svg" },
+      { "id": 6, "body": "svg/footer/digichild6.svg" },
+      { "id": 7, "body": "svg/footer/digichild8.svg" }
+    ],
+    "axdigikala": "images/footer/axdigikala.png",
+    "Download": "دانلود اپلیکیشن دیجی کالا",
+    "apps": [
+      { "id": 1, "image": "images/footer/coffe-bazzar.png" },
+      { "id": 2, "image": "images/footer/myket.png" },
+      { "id": 3, "image": "images/footer/sib-app.png" }
+    ],
+    "titledigi": "دیجی کالا , بزرگترین فروشگاه اینترنتی ایران",
+    "standard": [
+      { "id": 1, "image": "images/footer/rezi.png" },
+      { "id": 2, "image": "images/footer/sapra.png" },
+      { "id": 3, "image": "images/footer/84.png" },
+      { "id": 4, "image": "images/footer/kasbokar.png" }
+    ],
+    "responsive":[
+      {"id":1,"image":"svg/footer/responsivehome.svg","title":"خانه"},
+      {"id":2,"image":"svg/footer/responsivedaste.svg","title":"دسته بندی"},
+      {"id":3,"image":"svg/footer/responsivekharid.svg","title":"سبدخرید"},
+      {"id":4,"image":"svg/footer/responsivemagnet.svg","title":"مگنت"},
+      {"id":5,"image":"svg/footer/responsiveman.svg","title":"دیجی کالای من"}
+    ]
+  },
+  "digichild": [
+    { "id": 1, "img": "svg/digichild/digi1.svg" },
+    { "id": 2, "img": "svg/digichild/digi2.svg" },
+    { "id": 3, "img": "svg/digichild/digi3.svg" },
+    { "id": 4, "img": "svg/digichild/digi4.svg" },
+    { "id": 5, "img": "svg/digichild/digi5.svg" },
+    { "id": 6, "img": "svg/digichild/digi6.svg" },
+    { "id": 7, "img": "svg/digichild/digi7.svg" },
+    { "id": 8, "img": "svg/digichild/digi8.svg" },
+    { "id": 9, "img": "svg/digichild/digi9.svg" },
+    { "id": 10, "img": "svg/digichild/digi10.svg" },
+    { "id": 11, "img": "svg/digichild/digi11.svg" },
+    { "id": 12, "img": "svg/digichild/digi12.svg" },
+    { "id": 13, "img": "svg/digichild/digi13.svg" },
+    { "id": 14, "img": "svg/digichild/digi14.svg" },
+    { "id": 15, "img": "svg/digichild/digi15.svg" },
+    { "id": 16, "img": "svg/digichild/digi16.svg" }
+  ],
+  "labelsooper": {
+    "title": "سوپرمارکت",
+    "svgflesh": "svg/labelsooper/fleshbechap.svg",
+    "category": [
+      {
+        "id": 1,
+        "title": "پرتخفیف و متنوع",
+        "svgbox": "images/labelsooper/car.png.png",
+        "titlebox": "ارسال سریع",
+        "image": "images/labelsooper/fresh-shop-basket.png"
+      },
+      {
+        "id": 2,
+        "title": "ارسال فوری",
+        "svgbox": "images/labelsooper/car.png.png",
+        "titlebox": "45دقیقه ای",
+        "image": "images/labelsooper/jet-shop-basket.png"
+      }
+    ]
+  },
+  "poshtibani": {
+    "poshtiban": "svg/poshtibani/poshtiban.svg",
+    "closeflesh": "svg/poshtibani/flesh.svg",
+    "category": [
+      {
+        "id": 1,
+        "title": "چگونه می توانم یک پروفایل ایجاد کنم؟",
+        "body": "بعد از ورود به پروفایل کالای مورد نظر خود را اضافه کنید.پس از انتخاب آدرس میتوانید نوع پرداخت خود را انتخاب کنید.پس از اتمام ثبت سفارش ,سیستم کد سفارش شما را نشان خواهد داد."
+      },
+      {
+        "id": 2,
+        "title": "چطور در دیجی کالا سفارش خود را ثبت کنم؟",
+        "body": "در وب سایت روی گزینه ثبت نام کلیک کنید.می توانید با استفاده از شماره موبایل ثبت نام خود را انجام دهید."
+      },
+      {
+        "id": 3,
+        "title": "کالایی را که در طرح پیشنهاد شکفت انگیز می باشد میتوان با تعداد بیش از یک عدد خریداری کرد؟",
+        "body": "به دلیل اینکه طرح پیشنهاد شگفت انگیز یک طرح تشویقی خرید است,دیجی کالا تعهدی در قبال سفارش های تعدادی ندارد و در صورتی که امکان فروش بیشتر از یک عدد وجود داشته باشد,هماهنگی های لازم با مشتری انجام خواهد شد."
+      }
+    ],
+    "fleshchap": "svg/poshtibani/fleshchap.svg"
+  },
+  "login": {
+    "digikala": "svg/Login/digikala.svg"
   }
 }
