@@ -7,12 +7,12 @@
   "theme_color": "#de3e56",
   "icons": [
     {
-      "src": "/svg/manifest/svg256.svg",
+      "src": "/digikalaReact/svg/manifest/svg256.svg",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/svg/manifest/svg512.svg",
+      "src": "/digikalaReact/svg/manifest/svg512.svg",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -21,12 +21,12 @@
   "description": "React-router/Api_based/Redux/Responsive",
   "screenshots": [
     {
-      "src": "/images/screenshots/image256.JPG",
+      "src": "/digikalaReact/images/screenshots/image256.JPG",
       "type": "image/jpg",
       "sizes": "477x909"
     },
     {
-      "src": "/images/screenshots/image512.JPG",
+      "src": "/digikalaReact/images/screenshots/image512.JPG",
       "type": "image/jpg",
       "sizes": "1912x920",
       "form_factor":"wide"
