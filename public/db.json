@@ -1708,21 +1708,21 @@
         "section": [
           {
             "id": 1,
-            "img": "public/images/montakhab/image1.png",
+            "img": "images/montakhab/image1.png",
             "h6text": "64%",
             "h5text": "429.000",
             "h6row": "1.189.000"
           },
           {
             "id": 2,
-            "img": "public/images/montakhab/image2.png",
+            "img": "images/montakhab/image2.png",
             "h6text": "64%",
             "h5text": "429.000",
             "h6row": "1.189.000"
           },
           {
             "id": 3,
-            "img": "public/images/montakhab/image3.png",
+            "img": "images/montakhab/image3.png",
             "h6text": "64%",
             "h5text": "429.000",
             "h6row": "1.189.000"
@@ -1734,21 +1734,21 @@
         "section": [
           {
             "id": 4,
-            "img": "public/images/montakhab/image4.png",
+            "img": "images/montakhab/image4.png",
             "h6text": "1164%",
             "h5text": "429.000",
             "h6row": "1.189.000"
           },
           {
             "id": 5,
-            "img": "public/images/montakhab/image5.png",
+            "img": "images/montakhab/image5.png",
             "h6text": "0%",
             "h5text": "1.049.000",
             "h6row": ""
           },
           {
             "id": 6,
-            "img": "public/images/montakhab/image6.png",
+            "img": "images/montakhab/image6.png",
             "h6text": "15%",
             "h5text": "1.099.000",
             "h6row": "1.300.000"
@@ -1760,21 +1760,21 @@
         "section": [
           {
             "id": 7,
-            "img": "public/images/montakhab/image7.png",
+            "img": "images/montakhab/image7.png",
             "h6text": "15%",
             "h5text": "1.010.000",
             "h6row": "1.190.000"
           },
           {
             "id": 8,
-            "img": "public/images/montakhab/image8.png",
+            "img": "images/montakhab/image8.png",
             "h6text": "14%",
             "h5text": "876.340",
             "h6row": "1.019.000"
           },
           {
             "id": 9,
-            "img": "public/images/montakhab/image9.png",
+            "img": "images/montakhab/image9.png",
             "h6text": "89%",
             "h5text": "2.750.000",
             "h6row": "25.000.000"
@@ -1786,21 +1786,21 @@
         "section": [
           {
             "id": 10,
-            "img": "public/images/montakhab/image10.png",
+            "img": "images/montakhab/image10.png",
             "h6text": "79%",
             "h5text": "199.000",
             "h6row": "950.000"
           },
           {
             "id": 11,
-            "img": "public/images/montakhab/image11.png",
+            "img": "images/montakhab/image11.png",
             "h6text": "89%",
             "h5text": "545.900",
             "h6row": "5.000.000"
           },
           {
             "id": 12,
-            "img": "public/images/montakhab/image12.png",
+            "img": "images/montakhab/image12.png",
             "h6text": "86%",
             "h5text": "420.000",
             "h6row": "3.000.000"
@@ -1812,21 +1812,21 @@
         "section": [
           {
             "id": 13,
-            "img": "public/images/montakhab/image13.png",
+            "img": "images/montakhab/image13.png",
             "h6text": "86%",
             "h5text": "298.000",
             "h6row": "2.100.000"
           },
           {
             "id": 14,
-            "img": "public/images/montakhab/image14.png",
+            "img": "images/montakhab/image14.png",
             "h6text": "86%",
             "h5text": "199.000",
             "h6row": "1.400.000"
           },
           {
             "id": 15,
-            "img": "public/images/montakhab/image15.png",
+            "img": "images/montakhab/image15.png",
             "h6text": "64%",
             "h5text": "4.990.000",
             "h6row": "14.000.000"
@@ -1838,21 +1838,21 @@
         "section": [
           {
             "id": 16,
-            "img": "public/images/montakhab/image16.png",
+            "img": "images/montakhab/image16.png",
             "h6text": "59%",
             "h5text": "615.000",
             "h6row": "1.500.000"
           },
           {
             "id": 17,
-            "img": "public/images/montakhab/image17.png",
+            "img": "images/montakhab/image17.png",
             "h6text": "58%",
             "h5text": "1.595.000",
             "h6row": "3.800.000"
           },
           {
             "id": 18,
-            "img": "public/images/montakhab/image18.png",
+            "img": "images/montakhab/image18.png",
             "h6text": "57%",
             "h5text": "1.680.000",
             "h6row": "3.900.000"
