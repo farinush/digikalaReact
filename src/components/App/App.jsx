@@ -10,7 +10,6 @@ const App = () => {
   return (
     <Provider store={store}>
       <BrowserRouter
-        basename="/digikalaReact"
         future={{
           v7_startTransition: true,
           v7_relativeSplatPath: true,
